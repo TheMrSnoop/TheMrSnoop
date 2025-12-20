@@ -1,4 +1,4 @@
-## yo, mostly an Unreal Engine Game Developer, but I make cool stuff here sometimes too.
+## THEMRSNOOP
 
 I know a bit of 
 - Frontend Web-Design (HTML, CSS)
@@ -6,5 +6,7 @@ I know a bit of
 - Software Development (C++, Python, a tiny bit of C#)
 - Roblox Game Development (Lua)
 - Blender
+
+all self taught skills btw.
 
 
