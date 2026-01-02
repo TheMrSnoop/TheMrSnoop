@@ -1,4 +1,4 @@
-## THEMRSNOOP
+## Hello, Привет
 
 I know a bit of 
 - Frontend Web-Design (HTML, CSS)
