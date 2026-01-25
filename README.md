@@ -1,4 +1,4 @@
-## Hello, Привет
+## Hello
 
 I know a bit of 
 - Frontend Web-Design (HTML, CSS)
@@ -7,6 +7,8 @@ I know a bit of
 - Roblox Game Development (Lua)
 - Blender
 
-all self taught skills btw.
+but I am mostly an indie game dev working with Unreal Engine.
+
+these are all self taught skills btw.
 
 
