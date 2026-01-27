@@ -1,4 +1,5 @@
-## Hello
+![](https://github.com/TheMrSnoop/TheMrSnoop/blob/main/hello.gif)
+
 
 I know a bit of 
 - Frontend Web-Design (HTML, CSS)
