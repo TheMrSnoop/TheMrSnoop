@@ -1,6 +1,5 @@
-![](https://github.com/TheMrSnoop/TheMrSnoop/blob/main/hello.gif)
-
-
+# TheMrSnoop
+---
 I know a bit of 
 - Frontend Web-Design (HTML, CSS)
 - Backend Web-Design (JavaScript)
