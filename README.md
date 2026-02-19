@@ -1,5 +1,5 @@
-## TheMrSnoop
----
+# TheMrSnoop
+
 I know a bit of 
 - Frontend Web-Design (HTML, CSS)
 - Backend Web-Design (JavaScript)
